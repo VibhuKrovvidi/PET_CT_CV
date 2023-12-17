@@ -25,9 +25,9 @@ This repository contains the driver code for running the training example of Con
 
 | Hyperparameter          | Value                  |
 |--------------------------|------------------------|
-| Learning Rate (Detr)     | \(1 \times 10^{-4}\)   |
-| Learning Rate (Backbone) | \(1 \times 10^{-5}\)   |
-| Weight Decay             | \(1 \times 10^{-4}\)   |
+| Learning Rate (Detr)     |  10^-4   |
+| Learning Rate (Backbone) |  10^-5    |
+| Weight Decay             |  10^-4     |
 | Image Dimensions (DIM)  | 408                    |
 | Batch Size               | 8                      |
 | Pin Memory               | True                   |
