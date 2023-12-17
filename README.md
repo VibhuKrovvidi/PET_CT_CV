@@ -15,5 +15,5 @@ This project will leverage publicly available data from the 3D segmentation gran
 <li> assets: misc files used for this readme.
 </ol>
 
-### Architecgture 
+### Architecture 
 ![alt text](https://raw.githubusercontent.com/VibhuKrovvidi/PET_CT_CV/main/assets/snip_architecture.PNG)
