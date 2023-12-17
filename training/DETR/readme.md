@@ -21,6 +21,19 @@ Please ensure that you are signed in with your Lion Mail account to access and d
 
 This repository contains the driver code for running the training example of Conditional DETR.
 
+## Hyperparameters
+
+| Hyperparameter          | Value                  |
+|--------------------------|------------------------|
+| Learning Rate (Detr)     | \(1 \times 10^{-4}\)   |
+| Learning Rate (Backbone) | \(1 \times 10^{-5}\)   |
+| Weight Decay             | \(1 \times 10^{-4}\)   |
+| Image Dimensions (DIM)  | 408                    |
+| Batch Size               | 8                      |
+| Pin Memory               | True                   |
+| Number of Workers        | 12                     |
+
+
 ## Environment Specifications
 
 | GPU Type | GPU Memory | RAM    |
