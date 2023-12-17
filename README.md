@@ -1,16 +1,18 @@
 ### PET-CT Cancer Detection using Deep Learning detection approaches GE Research
 ### Columbia University Capstone Project
 
-Group Members:
-Rohan Sheelvant (rns2167) 
-Vibhu Krovvidi (vk2500)
-Vritansh Kamal (vk2501)
-Wei Xiong Toh (wt2354)
-Yu Song Ng (yn2436)
+### Group members Name UNI 
+- Rohan Sheelvant (rns2167) 
+- Vibhu Krovvidi (vk2500)
+- Vritansh Kamal (vk2501)
+- Wei Xiong Toh (wt2354)
+- Yu Song Ng (yn2436)
 
-Supervisors
-Inna Stainvas (GE Research)
-Adam Kelleher (Columbia University)
+Emails  &lt;UNI&gt; @ columbia.edu
+
+### Supervisors
+- Inna Stainvas (GE Research)
+- Adam Kelleher (Columbia University)
 
 <br>
 This project aims to address a significant challenge in the field of medical imaging, specifically in the context of Positron Emission Tomography with Computed Tomography (PET-CT) for lung cancer diagnosis. The problem at hand is the efficient and accurate detection of tumor lesions within whole-body FDG-PET/CT scans.
